@@ -5,11 +5,11 @@
 
 ### 참여 프로젝트
 > 1. Project Witch
-> > * Repositiry : 
+> > Repositiry : 
 > 2. No Mans Island
-> > * Repositiry : 
+> > Repositiry : 
 > 3. Be Honored
-> > * Repositiry : 
+> > Repositiry : 
 
 ### 포트폴리오
 > [포트폴리오.pdf](https://github.com/user-attachments/files/18942132/SongJungHyun_Portfolio.pdf)
