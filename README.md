@@ -13,5 +13,6 @@
 > > * video : https://youtu.be/FDF0xKU8jVk
 
 ### 포트폴리오
-> [송정현 포트폴리오.pdf](https://github.com/user-attachments/files/18978016/Song.pdf)
+>[송정현 포트폴리오.pdf](https://github.com/user-attachments/files/18978029/default.pdf)
+
 
