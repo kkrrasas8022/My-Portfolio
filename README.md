@@ -13,4 +13,5 @@
 > > * video : https://youtu.be/FDF0xKU8jVk
 
 ### 포트폴리오
-> [포트폴리오.pdf](https://github.com/user-attachments/files/18942132/SongJungHyun_Portfolio.pdf)
+> [송정현 포트폴리오.pdf](https://github.com/user-attachments/files/18978016/Song.pdf)
+
